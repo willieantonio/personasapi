@@ -2,6 +2,7 @@ package com.was.personasapi.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
+
 import lombok.Data;
 import lombok.NoArgsConstructor;
 

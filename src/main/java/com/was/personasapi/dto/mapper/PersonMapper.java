@@ -1,12 +1,13 @@
 package com.was.personasapi.dto.mapper;
 
+
 import com.was.personasapi.dto.request.PersonDTO;
 import com.was.personasapi.entity.Person;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;
 
 
-@Mapper(componentModel = "string")
+@Mapper(componentModel = "spring")
 public interface PersonMapper {
 
     //Create Birth Date
